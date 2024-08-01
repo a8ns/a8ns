@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking for help with on Career Portal<br>I'm currently learning Kubernetes and CI/CD<br>Ask me about Cloud
+I'm looking for help with SaaS Career Portal<br>I'm currently learning Kubernetes and CI/CD<br>Ask me about Cloud
 
 
 # 💻 Tech Stack:
