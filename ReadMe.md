@@ -23,7 +23,7 @@
 
 <h2 align="center" id="interests">🚀 Interests</h2>
 <a href="https://www.credly.com/badges/65b7b8ca-aed7-4964-bb04-1eca8963f9d1/public_url">
-<img align="right" width="75" alt="AWS Certified Solutions Architect Associate" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+<img align="right" width="75 " alt="AWS Certified Solutions Architect Associate" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
 </a>
 <ul>
 <li><strong>Architecting & System Design</strong>: Architecting & Design are in my blood. I love to engineer highly-available, scalable, robust, maintainable and secure systems.</li>
@@ -84,12 +84,14 @@ Languages:</h3>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"> 
 </p>
 
-<h3 align="center">
-<img alt="cloud" src="./server-data-svgrepo-com.svg" width="24" height="24" align="center"> Cloud</h3>
+<h3 align="center">☁️ Cloud & Operating Systems</h3>
 <p align="center">
 <img alt="NGINX" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
 <img alt="GCC" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+<img alt="GCC" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+
+
 <p align="center">
 
 <h3 align="center">🛢️ Databases:</h3>
