@@ -1,5 +1,5 @@
 <div align="center" id="table-of-contents">
-<h1>Table of Contents</h1>
+<h2>Table of Contents</h2>
 <a href="#who-am-i">👨🏻‍💻 Who am I?</a><br>
 <a href="#interests">🚀 Interests</a><br>
 <a href="#tech-stack">💻 Tech Stack</a><br>
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 
-<h1 align="center" id="who-am-i">👨🏻‍💻 Who am I?</h1>
+<h2 align="center" id="who-am-i">👨🏻‍💻 Who am I?</h2>
 <h3 align="center">Hey! 👋 I'm Emil, a passionate tech evangelist based in Berlin, Germany.</h3> <h4 align="center">Here's a bit about me:</h4>
 <p align="center"> 
 <ul>
@@ -31,10 +31,10 @@
 <li><strong>Backend-Development</strong>: I enjoy building production-grade robust, scalable and secure server-side applications. APIs and server logic are my jam.</li>
 </ul>
 <p align="center">
-
+<br>
 <p>&nbsp;</p>
 
-<h1 align="center" id="tech-stack">💻 Tech Stack</h1>
+<h2 align="center" id="tech-stack">💻 Tech Stack</h2>
 <p align="center">
 <h3 align="center"> 
 <img alt="Languages" src="./code-svgrepo-com.svg" width="24" height="24" align="center">
