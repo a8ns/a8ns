@@ -23,7 +23,7 @@
 
 <h2 align="center" id="interests">🚀 Interests</h2>
 <a href="https://www.credly.com/badges/65b7b8ca-aed7-4964-bb04-1eca8963f9d1/public_url">
-<img align="right" alt="AWS Certified Solutions Architect Associate" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+<img align="right" width="75" alt="AWS Certified Solutions Architect Associate" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
 </a>
 <ul>
 <li><strong>Architecting & System Design</strong>: Architecting & Design are in my blood. I love to engineer highly-available, scalable, robust, maintainable and secure systems.</li>
