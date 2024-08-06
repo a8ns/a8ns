@@ -16,6 +16,7 @@
 <ul>
 <li>🙏🏻 I'm looking for help with SaaS Career Portal and small open source pet projects</li>
 <li>📖 I'm currently deepen my knowledge of Kubernetes and CI/CD</li>
+<li>C is my favorite programming language. I also live curly braces :)</li>
 <li>🙋🏻 Ask me about Cloud</li>
 </ul>
 
