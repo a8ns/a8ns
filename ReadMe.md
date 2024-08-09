@@ -85,6 +85,9 @@ Languages:</h3>
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white">
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white">
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"> 
+<img alt="tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"> 
+<img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white"> 
+<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"> 
 </p>
 
 <h3 align="center">☁️ Cloud & Operating Systems</h3>
@@ -92,7 +95,8 @@ Languages:</h3>
 <img alt="NGINX" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
 <img alt="GCC" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
-<img alt="GCC" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
 
 
 <p align="center">
@@ -117,6 +121,7 @@ Languages:</h3>
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"> 
+<img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"> 
 
 <h3 align="center">🖇️ Miscellaneous:</h3>
 <p align="center">
