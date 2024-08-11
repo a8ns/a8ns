@@ -16,7 +16,7 @@
 <ul>
 <li>🙏🏻 I'm looking for help with SaaS Career Portal and small open source pet projects</li>
 <li>📖 I'm currently deepening my knowledge of <img alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"> and CI/CD</li>
-<li><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> is my favorite programming language. I also love curly braces :)</li>
+<li><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> & <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c&logoColor=white"> are my favorite programming languages. I also love curly braces :)</li>
 <li><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> is my mostly used programming (actually scripting) language.
 </li>
 <li>🙋🏻 Ask me about Cloud. I am a certified Solutions Architect</li>
@@ -45,6 +45,7 @@ Languages:</h3>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c&logoColor=white">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
