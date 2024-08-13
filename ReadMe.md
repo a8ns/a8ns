@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Emil's GitHub Profile</title>
-  <meta name="google-site-verification" content="NMburJ0yGQbBOvQcOdXozWOqJXgczd54tpUAV_E6mwA" />
+<meta name="google-site-verification" content="NMburJ0yGQbBOvQcOdXozWOqJXgczd54tpUAV_E6mwA" />
 </head>
 <body>
 <div align="center" id="table-of-contents">
