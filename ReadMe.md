@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Emil's GitHub Profile</title>
+  <meta name="google-site-verification" content="NMburJ0yGQbBOvQcOdXozWOqJXgczd54tpUAV_E6mwA" />
+</head>
+<body>
 <div align="center" id="table-of-contents">
 <h2>Table of Contents</h2>
 <a href="#who-am-i">👨🏻‍💻 Who am I?</a><br>
@@ -143,4 +150,8 @@ Languages:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktienautobahn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="aktienautobahn" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://visitcount.itsvg.in/api?id=aktienautobahn&label=Profile%20Views&color=12&icon=5&pretty=true"/></p>
-<meta name="google-site-verification" content="NMburJ0yGQbBOvQcOdXozWOqJXgczd54tpUAV_E6mwA" />
+
+
+
+</body>
+</html>
