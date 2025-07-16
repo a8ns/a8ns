@@ -142,9 +142,6 @@ Languages:</h3>
 
 <h2 align="center" id="blogging">📝 Blogging</h2>
 <p align="center">
-<a href="https://dev.to/aktienautobahn">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="Dev.to Badge">
-</a>
 <a href="https://medium.com/@aktienautobahn">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
