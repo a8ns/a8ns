@@ -146,20 +146,6 @@ Languages:</h3>
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
 
-<p>&nbsp;</p>
-
-<h2 align="center" id="github-stats">📊 GitHub Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktienautobahn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="aktienautobahn" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktienautobahn&theme=dark&hide_border=false" alt="aktienautobahn" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktienautobahn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="aktienautobahn" /></p>
-
-<p>&nbsp;</p>
-
-<h2 align="center" id="top-contributed-repo">🔝 Top Contributed Repo</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktienautobahn&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="aktienautobahn" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://visitcount.itsvg.in/api?id=aktienautobahn&label=Profile%20Views&color=12&icon=5&pretty=true"/></p>
-
 
 
 </body>
