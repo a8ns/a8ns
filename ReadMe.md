@@ -146,7 +146,7 @@ Languages:</h3>
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
 
-
+<a href="https://u8views.com/github/a8ns"><img src="https://u8views.com/api/v1/github/profiles/78978789/views/day-week-month-total-count.svg"></a>
 
 </body>
 </html>
