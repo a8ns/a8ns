@@ -131,13 +131,14 @@ Languages:</h3>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"> 
 <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white"> 
+</p>
 
 <h3 align="center">🖇️ Miscellaneous:</h3>
 <p align="center">
 <img alt="Markdown" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">   
 <img alt="Markdown" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi">
 <img alt="Markdown" src="https://img.shields.io/badge/homebridge-%23491F59.svg?style=flat&logo=homebridge&logoColor=white">
-
+</p>
 <p>&nbsp;</p>
 
 <h2 align="center" id="blogging">📝 Blogging</h2>
@@ -145,8 +146,11 @@ Languages:</h3>
 <a href="https://medium.com/@aktienautobahn">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
-
+</p>
+ 
+<p align="center">
 <a href="https://u8views.com/github/a8ns"><img src="https://u8views.com/api/v1/github/profiles/78978789/views/day-week-month-total-count.svg"></a>
+</p>
 
 </body>
 </html>
