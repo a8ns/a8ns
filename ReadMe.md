@@ -143,7 +143,7 @@ Languages:</h3>
 
 <h2 align="center" id="blogging">📝 Blogging</h2>
 <p align="center">
-<a href="https://medium.com/@aktienautobahn">
+<a href="https://medium.com/@a8n.one">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
 </p>
