@@ -22,7 +22,7 @@
 <h3 align="center">Hey! 👋 I'm Emil, a passionate tech evangelist based in Berlin, Germany.</h3> <h4 align="center">Here's a bit about me:</h4>
 <p align="center"> 
 <ul>
-<li>📖 I'm currently deepening my knowledge of MLOPs and AI Agentic Architecture using <img alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"></li>
+<li>📖 I'm currently deepening my knowledge of <img alt="Go" src="https://img.shields.io/badge/go-%2300599C.svg?style=flat&logo=go&logoColor=white">, MLOPs and AI Agentic Architecture using <img alt="k8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white"></li>
 <li><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"> & <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c&logoColor=white"> are my favorite programming languages. I also love curly braces :)</li>
 <li><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> is my mostly used programming (actually scripting) language.
 </li>
